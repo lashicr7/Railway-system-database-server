@@ -1,3 +1,5 @@
+Instructions to run the project:
+
 1.first run admin.java for releaseing the trains by admin
 
 2.copy the code in sqlproject and load it into database(postgres)
